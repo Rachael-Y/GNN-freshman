@@ -37,9 +37,12 @@ conda remove -n your_env_name(虚拟环境名称) --all
 退出虚拟环境
 source deactivate
 
-2.mac 安装pyg https://blog.csdn.net/weixin_39188290/article/details/117933408?spm=1001.2014.3001.5501
+2.mac 安装pyg 
+
+https://blog.csdn.net/weixin_39188290/article/details/117933408?spm=1001.2014.3001.5501
 
 部分命令：
+
 pip install torch-scatter -f https://pytorch-geometric.com/whl/torch-1.8.0+cpu.html
 
 pip install torch-sparse -f https://pytorch-geometric.com/whl/torch-1.8.0+cpu.html
