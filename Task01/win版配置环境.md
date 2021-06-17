@@ -16,3 +16,28 @@ activate pytorch
 
 
 conda install pytorch torchvision torchaudio cudatoolkit=11.1 -c pytorch -c nvidia
+##暂未安装成功
+
+本地原有pytorch
+python -c "import torch; print(torch.__version__)"
+1.7.0+cu110
+python -c "import torch; print(torch.version.cuda)"
+11.0
+
+
+安装正确版本的PyG
+
+pip install torch-scatter -f https://pytorch-geometric.com/whl/torch-1.8.0+cu111.html
+
+pip install torch-sparse -f https://pytorch-geometric.com/whl/torch-1.8.0+cu111.html
+
+pip install torch-cluster -f https://pytorch-geometric.com/whl/torch-1.8.0+cu111.html
+
+pip install torch-spline-conv -f https://pytorch-geometric.com/whl/torch-1.8.0+cu111.html
+
+pip install torch-geometric
+
+# torch——sparse报错
+去
+https://pytorch-geometric.com/whl/torch-1.7.0.html
+下载 torch_sparse-0.6.8+cu110-cp37-cp37m-win_amd64.whl
