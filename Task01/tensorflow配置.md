@@ -49,6 +49,7 @@ jupyter contrib nbextension install --user --skip-running-check
 
 链接参考：
 https://blog.csdn.net/W_hm_M/article/details/107366442?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-1&spm=1001.2101.3001.4242
+重点参考cuda安装部分
 
 https://www.huaweicloud.com/articles/19faa544bda51633cc71cce987faa295.html
 
