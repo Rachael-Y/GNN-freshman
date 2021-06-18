@@ -74,3 +74,7 @@ Anaconda中配置Tensorflow环境：
 https://blog.csdn.net/XunCiy/article/details/89069193
 
 https://blog.csdn.net/XunCiy/article/details/89016510
+
+Anaconda3安装与卸载：
+
+https://sophia-fez.blog.csdn.net/article/details/89068870?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control
