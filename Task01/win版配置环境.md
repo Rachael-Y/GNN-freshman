@@ -12,6 +12,7 @@ conda create -n pytorch python=3.8 anaconda
 （4）启动Pytorch Anaconda虚拟环境
 
 activate pytorch
+
 （5）安装Pytorch
 
 
