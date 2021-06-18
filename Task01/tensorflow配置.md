@@ -1,4 +1,4 @@
-1. 在虚拟环境中安装jupyter
+在虚拟环境中安装jupyter
 
 通过下面命令安装插件：
 
@@ -72,3 +72,5 @@ https://zhuanlan.zhihu.com/p/139776843
 Anaconda中配置Tensorflow环境：
 
 https://blog.csdn.net/XunCiy/article/details/89069193
+
+https://blog.csdn.net/XunCiy/article/details/89016510
