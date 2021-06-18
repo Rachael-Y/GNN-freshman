@@ -15,6 +15,8 @@ activate pytorch
 
 （5）安装Pytorch
 
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
+配置国内源
 
 conda install pytorch torchvision  cudatoolkit=11.0
 
