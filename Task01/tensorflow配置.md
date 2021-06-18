@@ -47,12 +47,28 @@ jupyter contrib nbextension install --user --skip-running-check
 点开 Nbextensions 的选项，并勾选 Table of Contents
 
 
+安装tensorflow：
+CPU版本安装：pip install --ignore-installed --upgrade tensorflow==2.4.0
+GPU版本安装：pip install --ignore-installed --upgrade tensorflow-gpu==2.4.0
+
+https://blog.csdn.net/XunCiy/article/details/89069562
+
+版本参考：
+
+https://tensorflow.google.cn/install/source_windows
+
+
 链接参考：
 https://blog.csdn.net/W_hm_M/article/details/107366442?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-1&spm=1001.2101.3001.4242
+
 重点参考cuda安装部分
+
+https://sophia-fez.blog.csdn.net/article/details/89070315
 
 https://www.huaweicloud.com/articles/19faa544bda51633cc71cce987faa295.html
 
 https://zhuanlan.zhihu.com/p/139776843
 
+Anaconda中配置Tensorflow环境：
 
+https://blog.csdn.net/XunCiy/article/details/89069193
